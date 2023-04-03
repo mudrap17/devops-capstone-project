@@ -21,6 +21,7 @@ nose==1.3.7
 pinocchio==0.4.3
 factory-boy==3.2.1
 Flask-Talisman
+Flask-Cors
 
 # Code Coverage
 coverage==7.1.0
